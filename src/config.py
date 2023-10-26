@@ -1,5 +1,5 @@
 # version number
-VERSION = 1
+VERSION = 2
 
 # wifi networks
 NETWORKS = {"Digitaltrack": "fina0001"}
